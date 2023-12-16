@@ -1,5 +1,5 @@
-import 'package:Assignment_2/MyPractice.dart';
-import 'package:Assignment_2/test.dart';
+import 'package:assignment_1/MyPractice.dart';
+import 'package:assignment_1/test.dart';
 import 'package:flutter/material.dart';
 
 class ContactModel {
@@ -51,7 +51,7 @@ class TasksScreen extends StatelessWidget {
                     backgroundImage: AssetImage('images/MR.jpg'),
                   ),
                   Text(
-                    "Mehenaz Rahman",
+                    "Sheikh Mehenaz Rahman",
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 17.0,

@@ -18,7 +18,7 @@ class MyPractice extends StatelessWidget {
                 backgroundImage: AssetImage('images/MR.jpg'),
               ),
               const  Text(
-                'Mehenaz Rahman',
+                'Sheikh Mehenaz RahmaN',
                 style: TextStyle(
                     fontSize: 35.0,
                     color: Colors.white,
@@ -64,7 +64,7 @@ class MyPractice extends StatelessWidget {
                     color: Colors.lightBlueAccent[400],
                   ),
                   title: Text(
-                    'mehenaz@gmail.com',
+                    'Tanbir@gmail.com',
                     style: TextStyle(
                         fontFamily: 'SourceSansPro',
                         color: Colors.lightBlueAccent[400],
